@@ -1,3 +1,5 @@
+##1.1Concepte de programa informatic
+
 **Un programa informàtic** és un conjunt d'esdeveniments ordenats de manera que succeeixen de forma seqüencial en el temps,
 un darrera l'altre, i estan sempre aplicats sobre un conjunt de dades.
 
