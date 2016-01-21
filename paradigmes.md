@@ -1,4 +1,4 @@
-##Paradigmes de programació
+##1.3 Paradigmes de programació
 
 És una classificació de les diferents maneres de programar, classificant-los depenent de la seva forma de treballar i la filosofia
 amb la que van ser creats. Aquesta classificació està formada per:
